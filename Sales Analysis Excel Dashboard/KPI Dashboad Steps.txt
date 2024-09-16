@@ -1,0 +1,1 @@
+1. Load Yearly /Quarterly Income statement. Select the columns required. Remove orther columns and blanks.

@@ -1,0 +1,50 @@
+Interactive Excel Dashboard 
+✦Creating an interactive Excel dashboard for data analysis
+
+Dashboard allows filtering and viewing data based on specific criteria like year or category
+Features include creating charts, tables, and adding slicers for better data visualization
+✦Creating a dashboard requires understanding the business problem.
+
+Before creating a dashboard, one must comprehend the business problem to provide meaningful insights and solutions.
+The dashboard must address specific business needs, such as analyzing sales data and identifying key trends and opportunities.
+✦Creating an Excel dashboard based on business problems
+
+Selecting and converting data into a table format
+Converting data into number format and removing extra decimal places
+
+✦Sorting data by date and extracting year and month for further analysis
+
+Sorting data by date helps in organizing data chronologically, making analysis easier.
+Extracting year and month from order dates allows for creating monthly and yearly insights.
+
+✦Preparing data for analysis and creating a table in Excel.
+Changing date format and removing decimal places while ensuring data integrity.
+Removing duplicate values and creating a table for sales data analysis.
+
+✦Creating sales dashboard with category-wise data visualization
+Summarizing sales data for all categories and sorting it
+Copying and creating panel and funnel charts for detailed analysis
+
+✦Creating Excel dashboard with profit and sales data visualization
+Creating a table with Profit Gain Over Time chart
+Analyzing and visualizing monthly sales data using area chart
+
+✦Create customer count chart with yearly data
+Analyze customer count trend over 4 years: increase in 2016, constant in 2017
+Create a separate table with necessary values like year and customer name
+
+✦Creating a Sales Dashboard in Excel
+Customizing existing worksheets and tables for customer account details
+Adding and formatting slicers for category and year selections in the dashboard
+
+✦Customize shop colors and graphics in Excel dashboard
+Change shop colors by inputting hex code
+Modify and duplicate license graphics styles
+
+✦Creating an interactive and visually appealing Excel dashboard
+Using charts to compare subcategories and analyze profit
+Customizing the dashboard using themes and color schemes
+
+✦Creating a sales dashboard in Excel
+The video covers the process of building a sales dashboard in Excel
+Encouragement to like, comment, and subscribe for more similar projects

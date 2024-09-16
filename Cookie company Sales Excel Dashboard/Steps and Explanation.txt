@@ -1,0 +1,58 @@
+https://www.youtube.com/watch?v=MTlQvyNQ3PM
+Short Summary for [📊 How to Build Excel Interactive Dashboards](https://www.youtube.com/watch?v=MTlQvyNQ3PM) by [Merlin](https://merlin.foyer.work/)
+
+Title: "Creating Interactive Excel Dashboards without VBA or Add-Ins | Kevin Stratvert"
+
+- Creating an interactive dashboard in Microsoft Excel is easy and doesn't require VBA or add-ins.
+
+- Creating pivot tables and dashboards in Excel.
+
+- Formatting data for currency and decimals
+
+- Adding and organizing charts in Excel dashboards
+
+- Creating and formatting pivot tables and charts for an Excel dashboard.
+
+- Creating interactive and dynamic Excel dashboards
+
+- Connecting slicers to pivot tables for interactive dashboard filtering
+
+- Customize and share Excel dashboards efficiently.
+
+---------------------------------
+
+Detailed Summary for [📊 How to Build Excel Interactive Dashboards](https://www.youtube.com/watch?v=MTlQvyNQ3PM) by [Merlin](https://merlin.foyer.work/)
+
+Title: "Creating Interactive Excel Dashboards without VBA or Add-Ins | Kevin Stratvert"
+
+Creating an interactive dashboard in Microsoft Excel is easy and doesn't require VBA or add-ins.
+- Dashboard automatically updates with new data to reflect the latest information.
+- Easily share the dashboard for others in the organization to gain insights.
+
+Creating pivot tables and dashboards in Excel.
+- Inserting a pivot table by selecting a table range and placing it on a new worksheet.
+- Building multiple pivot tables for different views by duplicating existing tables.
+
+Formatting data for currency and decimals
+- Select all values and apply currency formatting type
+- Remove unnecessary decimals for easier analysis
+
+Adding and organizing charts in Excel dashboards
+- Cleaning up chart elements by removing clutter and field buttons for a cleaner look
+- Creating and formatting additional pivot tables and charts for a more comprehensive dashboard view
+
+Creating and formatting pivot tables and charts for an Excel dashboard.
+- Renaming and creating a pivot table for profit by month.
+- Formatting the pivot table to appear as currency, inserting a line chart to represent data over time, and aligning and positioning the chart on the dashboard.
+
+Creating interactive and dynamic Excel dashboards
+- Aligning charts and specifying dimensions for a consistent look
+- Inserting slicers and timeline for data filtering and interaction
+
+Connecting slicers to pivot tables for interactive dashboard filtering
+- Specify pivot tables controlled by slicers in report connections
+- Update dashboard with new data by copying and pasting into the table
+
+Customize and share Excel dashboards efficiently.
+- Refresh dashboard to include latest data automatically.
+- Customize dashboard appearance by turning off gridlines, headings, and hiding unnecessary sheets. Also, change color themes to match organization.
